@@ -1,5 +1,5 @@
 # Position
-Simple script to get the coordinates you're standing at and send it to a position.txt file.
+Simple FiveM script to get the coordinates you're standing at and send it to a position.txt file.
 
 ### Use
 This script was designed to just be started as its needed. Its for server owners to easily get coordinates of locations they need.
@@ -23,3 +23,6 @@ This script was designed to just be started as its needed. Its for server owners
 
 The `position.txt` file will be located in your main server directory.
 
+# Reporting Problems
+* Create an issue report and I'll have it fixed ASAP.
+* Another option would be to create the fix yourself and do a pull request with said fix.
